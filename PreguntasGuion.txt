@@ -1,0 +1,58 @@
+Profesor 12
+*************
+¿Has utilizado aplicaciones o sitios web educativos en el pasado?
+¿Cuáles son algunas aplicaciones educativas que has utilizado?
+¿Qué te motivó a utilizar estas aplicaciones educativas?
+¿Disfrutaste la experiencia de aprender a través de aplicaciones o plataformas educativas? ¿Por qué?
+¿Qué aspectos no te gustaron al aprender mediante aplicaciones? ¿Por qué?
+Basado en tus experiencias con plataformas de educación, ¿qué funcionalidades crees que son esenciales para un MVP inicial en esta sección de la app?
+¿Qué recursos o herramientas te han resultado más útiles en tus procesos de aprendizaje? ¿Videos, foros, información textual, otros?
+¿Alguna vez has tenido problemas significativos con una plataforma educativa que te hayan llevado a abandonar el proceso de aprendizaje? ¿Qué te frustró en ese caso?
+¿Cuánto tiempo suelen durar los cursos en línea que has tomado?
+¿Recuerdas cuál fue el último curso en línea que completaste? ¿Cómo accedías al contenido? ¿A través de una computadora, un teléfono móvil, una tablet u otro dispositivo?
+¿Qué te llevó a elegir ese dispositivo en particular para acceder al contenido?
+¿En qué momento del día solías acceder al contenido del curso en línea? ¿Por qué elegías ese momento?
+
+Recuerda que estas preguntas están diseñadas para obtener información valiosa sobre las preferencias y experiencias
+de los usuarios con aplicaciones y plataformas educativas. A partir de las respuestas, podrás identificar los 
+aspectos más importantes para desarrollar un MVP y planificar futuras versiones de la sección educativa de la app.
+
+
+otras
+************
+¿Consideras que las aplicaciones educativas pueden brindar una experiencia de aprendizaje más personalizada en comparación con la educación tradicional? ¿Por qué sí o por qué no?
+¿Has experimentado mejoras en tus habilidades o conocimientos después de utilizar aplicaciones educativas? ¿Puedes proporcionar ejemplos concretos?
+¿Has utilizado aplicaciones educativas que incorporan gamificación (elementos de juego) en su diseño? Si es así, ¿cómo crees que esto influyó en tu compromiso con el aprendizaje?
+¿Has notado diferencias en la calidad de la enseñanza entre aplicaciones educativas gratuitas y aquellas por las que se debe pagar? ¿Crees que vale la pena invertir en la educación a través de aplicaciones de pago?
+¿Qué tan importante es para ti que una aplicación educativa tenga una interfaz intuitiva y fácil de usar? ¿Has dejado de utilizar alguna aplicación debido a dificultades en su usabilidad?
+¿Crees que la educación financiera es un área en la que las aplicaciones podrían ser especialmente útiles? ¿Qué aspectos específicos de la educación financiera te gustaría ver abordados en una aplicación educativa?
+¿Cuáles son las aplicaciones o plataformas educativas financieras que has utilizado antes?
+¿Prefieres lecciones cortas y concisas o contenido más detallado y extenso?
+¿Te gustaría recibir recomendaciones personalizadas basadas en tus metas financieras y nivel de conocimiento?
+¿Prefieres tener acceso a expertos financieros para hacer preguntas y recibir asesoramiento en tiempo real?
+¿Te resulta fácil encontrar la información que necesitas dentro de estas aplicaciones/plataformas?
+¿Te gustaría establecer metas dentro de la aplicación y recibir recompensas por alcanzarlas?
+¿Te interesaría participar en desafíos o programas de aprendizaje a lo largo plazo?
+
+Las que estan 19
+*************
+Considerando su experiencia general, ¿qué tan probable es que recomiende administrar sus finanzas personales a sus amigos y colegas? 1 Muy improbable o 5 Muy probable?
+¿Cómo describirías tu conocimiento sobre las finanzas personales?
+¿Has tomado algún consejo profesional sobre cómo administrar las finanzas?
+En una escala de 1-5, ¿cómo calificaría su conocimiento financiero general? 1 Muy improbable o 5 Muy probable?
+¿Cuál de las siguientes es su mayor preocupación relacionada con las finanzas personales?
+¿Qué le gustaría aprender para mejorar sus finanzas personales?
+¿Que es un gasto fijo?
+¿Cuál de estas opciones representa un “gasto hormiga”?
+¿Tiene un plan de ahorro / presupuesto de cinco años?
+¿Qué tan importante es para usted tener fondos de emergencia?
+¿Qué tan importante es para usted ahorrar para la jubilación?
+En su opinión, tener tarjeta de crédito es
+¿Cuál de los siguientes seguros tiene?
+¿Sobre cuál de los siguientes temas cree que necesita más información?
+¿ Llevas registro de tus ingresos, gastos y ahorro?
+¿Qué te gustaría saber sobre el proceso de inversión y cómo elegir las opciones adecuadas para tu perfil financiero?
+¿Para qué sirve un presupuesto personal?
+¿Consideras que la educación financiera es importante para tomar decisiones informadas acerca de tus finanzas personales?
+¿Qué métodos prefieres para aprender sobre educación financiera?
+
